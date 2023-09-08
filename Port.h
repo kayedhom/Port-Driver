@@ -14,7 +14,7 @@
 #include "Std_Types.h"
 #include "Port_private.h"
 #include "Port_Cfg.h"
-
+#define mariam 0
 /* AUTOSAR version information for the Port Driver */
 /* AUTOSAR Version 4.0.3  */
 #define PORT_AR_RELEASE_MAJOR_VERSION    (4U)
